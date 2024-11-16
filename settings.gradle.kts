@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MVVM"
+rootProject.name = "Clinica"
 include(":app")
- 
